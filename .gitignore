@@ -1,21 +1,12 @@
 # Ignore virtual environments
 mnist_venv/
 
-
-model_trial_0.pth
-model_trial_26.pth
-
 # Ignore model files
 *.pth
 
-# Ignore system files
+# Ignore system files and temporary files
 .DS_Store
-
-# Ignore temporary files
 *.log
 
-# Ignore Git pack files (if applicable)
+# Ignore Git pack files (managed by Git itself, not needed here)
 .git/objects/pack/
-
-
-nn.ipynb
