@@ -4,10 +4,11 @@ mnist_venv/
 # Ignore model files
 *.pth
 
-# Ignore temporary or system files
-*.log
-__pycache__/
+# Ignore system files
 .DS_Store
 
-# Ignore Git pack files
+# Ignore temporary files
+*.log
+
+# Ignore Git pack files (if applicable)
 .git/objects/pack/
