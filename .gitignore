@@ -17,3 +17,5 @@ model_trial_26.pth
 # Ignore Git pack files (if applicable)
 .git/objects/pack/
 
+
+nn.ipynb
