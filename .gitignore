@@ -1,0 +1,13 @@
+# Ignore virtual environments
+mnist_venv/
+
+# Ignore model files
+*.pth
+
+# Ignore temporary or system files
+*.log
+__pycache__/
+.DS_Store
+
+# Ignore Git pack files
+.git/objects/pack/
