@@ -1,4 +1,4 @@
-from common_imports import torch, nn, ReduceLROnPlateau, optuna
+from utils.common_imports import torch, nn, ReduceLROnPlateau, optuna
 
 device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
 

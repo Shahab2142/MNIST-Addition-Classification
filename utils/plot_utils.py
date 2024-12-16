@@ -1,4 +1,4 @@
-from common_imports import plt, np, confusion_matrix, ConfusionMatrixDisplay
+from utils.common_imports import plt, np, confusion_matrix, ConfusionMatrixDisplay
 
 def plot_training_history(history: dict) -> None:
     """

@@ -1,4 +1,4 @@
-from common_imports import np, os, random, torch, TensorDataset, DataLoader, MNIST, ToTensor, Compose, RandomRotation, ColorJitter, RandomErasing, TSNE, silhouette_score, davies_bouldin_score
+from utils.common_imports import np, os, random, torch, TensorDataset, DataLoader, MNIST, ToTensor, Compose, RandomRotation, ColorJitter, RandomErasing, TSNE, silhouette_score, davies_bouldin_score
 
 def set_reproducibility(seed: int = 42) -> None:
     """
