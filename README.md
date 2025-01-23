@@ -88,3 +88,12 @@ The project is organized into the following core components:
 
 
 This project is licensed under the MIT License. See LICENSE for more details.
+
+
+Declaration of Autogenerative Tools
+
+In this project, I used GitHub Copilot as a coding assistant. I mainly used it to generate the plots in Figures, from 1 to 10, alongside the generation of the 6 tables. I also used it within my code to create comments, docstring my functions, debug and format markdown cells explaining the different sections in the notebook.
+
+In regards to the report, I used the Overleaf AI which uses ChatGPT to help write the mathematics in latex format, and also used it to correctly format various sections of the report as I am quite new to LaTeX.
+
+
